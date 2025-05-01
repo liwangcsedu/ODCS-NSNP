@@ -163,6 +163,7 @@ Model checkpoints during training are saved in the checkpoints directory. You ca
 
 ## Citation
 
+```
 @article{li2025odcs,
   title={ODCS-NSNP: Optic disc and cup segmentation using deep networks enhanced by nonlinear spiking neural P systems},
   author={Li, Wang and Xia, Meichen and Peng, Hong and Liu, Zhicai and Guo, Jun},
@@ -172,3 +173,4 @@ Model checkpoints during training are saved in the checkpoints directory. You ca
   year={2025},
   publisher={Elsevier}
 } 
+```
